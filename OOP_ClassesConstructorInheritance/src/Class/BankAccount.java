@@ -8,7 +8,7 @@ public class BankAccount {
     private String phoneNumber;
 
     //constructors can be overloaded
-    //it is best not to call the setters method in the constructor. This is cause we want the fields to be initialized first. 
+    //it is best not to call the setters method in the constructor. This is cause we want the fields to be initialized first.
 
     public BankAccount() {
         this(0,0,"default name","default email","(000) 000 0000"); // calling
