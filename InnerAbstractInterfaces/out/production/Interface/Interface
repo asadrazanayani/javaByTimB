@@ -1,0 +1,9 @@
+##Interface
+- 100% abstract cause all the methods has to be overridden
+- Interface itself has no body, only method declaration
+- If inherited, if forces the child class to be implemented following the proper method signature. In other words, it is a contract that must be
+fulfilled by the child class.
+- Like if we change the parameter type, the child class must change as well. Like it is forced.
+- In other words, if the interface changes, the implementation must also be changed.
+- Public access modifiers are redundant in interfaces
+- Cannot be instantiated.

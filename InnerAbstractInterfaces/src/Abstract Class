@@ -1,0 +1,4 @@
+##Abstract Class
+- When we define the required functionality without implementing the details. Focus on what and not on how
+- It cannot be instantiated.
+- Unlike interface, abstract classes have constructors.
