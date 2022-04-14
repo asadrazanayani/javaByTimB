@@ -1,0 +1,13 @@
+##super
+is used to access/call the parent class members
+
+##this
+is used to call the current class members
+We can use this() in the constructor of the class. It will reduce the code rewriting.
+
+##Exception in static areas
+We can use both of them anywhere in a class except static areas(the static block or a static method). Any attempt to do so will lead to a
+compile-time errors
+
+##Abstract class
+Even abstract classes has constructor.

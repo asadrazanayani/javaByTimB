@@ -1,0 +1,12 @@
+##Static Method
+in Static method, we cannot use this keyword
+If a method does not use instance variable than that method should probably be static
+For example, main is the static method called by JVM when it starts an application.
+Static method can be called directly from the class
+
+##Instance Method
+To use instance method of a class, we must instantiate a class by using the new keyword.
+Instance method can access both static methods and instance method
+
+
+

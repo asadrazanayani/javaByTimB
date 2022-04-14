@@ -1,0 +1,13 @@
+## Reference
+Reference is the location in memory of the object we create. Each object we create is called a reference.
+In java, we cannot access the object directly. Everything is done via a reference.
+
+If we change the object, all the references will also be changed if the references are pointing to that object
+
+## New keyword
+Everytime we use new keyword, we will create a new object (instances of the class)
+
+## Assignment operator
+We use assignment operator to refer an object to a variable.
+
+

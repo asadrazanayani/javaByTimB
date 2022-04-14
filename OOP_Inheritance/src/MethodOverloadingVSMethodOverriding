@@ -1,0 +1,11 @@
+##Overloading
+    Java developers like to refer overloading as compile time polymorphism
+    It is called compile time because the compiler decides which method is going to be called.
+
+##Overloading rules
+    methods must have same name
+    methods must have different parameters.
+
+##Method overriding
+Only inherited can be overriden
+Cannot override constructor, final, and private members.

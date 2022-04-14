@@ -1,0 +1,5 @@
+##Static Variable
+Static variable is shared by instances and class
+Static variable is seldom used, but we can use it when dealing with Scanner and reading user Inputs
+
+##Instance Variable is used when we want each instance to have a seperate fields

@@ -1,0 +1,8 @@
+##Polymorphism
+What? Means many forms, The mechanism in OOP that allows actions to act differently based on the actual object.
+It mainly refers to overriding and overloading. Emphases on overriding because it is runtime.
+How? If the inherited parent class has a method, the child class can override that method to make sure the implementation is specific to the child.
+Why? Combining with abstraction and inheritance, polymorphism allows us to write generic codes if the parent class is abstract, or has a abstract method.
+It will force the derived class or the child class to implement specific implementation of the abstract class.
+
+Note: Movie example is a good example to showcase polymorphism.

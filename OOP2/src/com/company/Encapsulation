@@ -1,0 +1,9 @@
+##Encapsulation
+What? Restrict direct access to certain components of the objects. Protect the members of the class from external sources
+Why? because it helps us maintain the integrity of the Object. (validate parameters for example)
+    Also helps with refactoring, for example if we want to change certain member variable names,
+    we can do that without having to correct the variable name in the part where we used the class,
+    unless the getters and setters method signature has also changed
+How? Use Access modifiers like private to restrict direct access to member variables.
+
+
