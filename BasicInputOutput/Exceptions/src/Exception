@@ -1,0 +1,5 @@
+## Exception
+- two approaches to deal with error in programming
+    - LBYL look before your leave (Common in JAVA)
+    - EAFP Easier to Ask For Permission (Perform operation and handle exception)
+
